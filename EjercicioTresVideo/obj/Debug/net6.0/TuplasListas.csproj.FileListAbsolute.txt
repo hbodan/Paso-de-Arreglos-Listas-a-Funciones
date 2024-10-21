@@ -1,0 +1,14 @@
+C:\Users\hebod\source\repos\TuplasListas\bin\Debug\net6.0\TuplasListas.exe
+C:\Users\hebod\source\repos\TuplasListas\bin\Debug\net6.0\TuplasListas.deps.json
+C:\Users\hebod\source\repos\TuplasListas\bin\Debug\net6.0\TuplasListas.runtimeconfig.json
+C:\Users\hebod\source\repos\TuplasListas\bin\Debug\net6.0\TuplasListas.dll
+C:\Users\hebod\source\repos\TuplasListas\bin\Debug\net6.0\TuplasListas.pdb
+C:\Users\hebod\source\repos\TuplasListas\obj\Debug\net6.0\TuplasListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hebod\source\repos\TuplasListas\obj\Debug\net6.0\TuplasListas.AssemblyInfoInputs.cache
+C:\Users\hebod\source\repos\TuplasListas\obj\Debug\net6.0\TuplasListas.AssemblyInfo.cs
+C:\Users\hebod\source\repos\TuplasListas\obj\Debug\net6.0\TuplasListas.csproj.CoreCompileInputs.cache
+C:\Users\hebod\source\repos\TuplasListas\obj\Debug\net6.0\TuplasListas.dll
+C:\Users\hebod\source\repos\TuplasListas\obj\Debug\net6.0\refint\TuplasListas.dll
+C:\Users\hebod\source\repos\TuplasListas\obj\Debug\net6.0\TuplasListas.pdb
+C:\Users\hebod\source\repos\TuplasListas\obj\Debug\net6.0\TuplasListas.genruntimeconfig.cache
+C:\Users\hebod\source\repos\TuplasListas\obj\Debug\net6.0\ref\TuplasListas.dll
