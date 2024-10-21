@@ -1,0 +1,14 @@
+C:\Users\hebod\source\repos\EjercicioDosVideo\bin\Debug\net6.0\EjercicioDosVideo.exe
+C:\Users\hebod\source\repos\EjercicioDosVideo\bin\Debug\net6.0\EjercicioDosVideo.deps.json
+C:\Users\hebod\source\repos\EjercicioDosVideo\bin\Debug\net6.0\EjercicioDosVideo.runtimeconfig.json
+C:\Users\hebod\source\repos\EjercicioDosVideo\bin\Debug\net6.0\EjercicioDosVideo.dll
+C:\Users\hebod\source\repos\EjercicioDosVideo\bin\Debug\net6.0\EjercicioDosVideo.pdb
+C:\Users\hebod\source\repos\EjercicioDosVideo\obj\Debug\net6.0\EjercicioDosVideo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hebod\source\repos\EjercicioDosVideo\obj\Debug\net6.0\EjercicioDosVideo.AssemblyInfoInputs.cache
+C:\Users\hebod\source\repos\EjercicioDosVideo\obj\Debug\net6.0\EjercicioDosVideo.AssemblyInfo.cs
+C:\Users\hebod\source\repos\EjercicioDosVideo\obj\Debug\net6.0\EjercicioDosVideo.csproj.CoreCompileInputs.cache
+C:\Users\hebod\source\repos\EjercicioDosVideo\obj\Debug\net6.0\EjercicioDosVideo.dll
+C:\Users\hebod\source\repos\EjercicioDosVideo\obj\Debug\net6.0\refint\EjercicioDosVideo.dll
+C:\Users\hebod\source\repos\EjercicioDosVideo\obj\Debug\net6.0\EjercicioDosVideo.pdb
+C:\Users\hebod\source\repos\EjercicioDosVideo\obj\Debug\net6.0\EjercicioDosVideo.genruntimeconfig.cache
+C:\Users\hebod\source\repos\EjercicioDosVideo\obj\Debug\net6.0\ref\EjercicioDosVideo.dll
